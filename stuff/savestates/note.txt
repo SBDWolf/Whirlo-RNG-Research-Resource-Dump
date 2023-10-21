@@ -1,0 +1,3 @@
+Savestates 0, 1, 2, and 9 are used by the Lua bots
+Savestate 5 was used for me to manually test the various Anconda patterns in real time (by changing $7E005E on it).
+Savestate 7 was used as a base to test what final trial a seed would generate (by once again changing $7E005E).
